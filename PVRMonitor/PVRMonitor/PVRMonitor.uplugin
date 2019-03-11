@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PVRMonitor Plugin",
+	"Description": "This plugin provides integration of PVRScopeComms and PVRScopeStats for your Unreal Engine projects. Get real time performance stats on device about your PowerVR GPU usage.",
+	"Category": "Performance",
+	"CreatedBy": "Imagination Technologies Ltd.",
+	"CreatedByURL": "http://imgtec.com/",
+	"DocsURL": "????",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/??????",
+	"SupportURL": "https://pvrsupport.imgtec.com/",
+	"EngineVersion": "4.21.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PVRMonitorPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Android",
+				"Win32",
+				"Win64"
+			]
+		}
+	]
+}
