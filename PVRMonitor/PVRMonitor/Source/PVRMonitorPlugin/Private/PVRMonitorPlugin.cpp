@@ -1,7 +1,7 @@
 /*!***********************************************************************
 
  @file           PVRMonitorPlugin.cpp
- @copyright      Copyright (c) Imagination Technologies Ltd. All Rights Reserved.
+ @copyright      Copyright (c) Imagination Technologies Ltd. All Rights Reserved. 2019
 
 **************************************************************************/
 #include "CoreMinimal.h"

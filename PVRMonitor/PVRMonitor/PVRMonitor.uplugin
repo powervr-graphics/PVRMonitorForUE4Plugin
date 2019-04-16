@@ -7,10 +7,10 @@
 	"Category": "Performance",
 	"CreatedBy": "Imagination Technologies Ltd.",
 	"CreatedByURL": "http://imgtec.com/",
-	"DocsURL": "????",
-	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/??????",
+	"DocsURL": "https://www.imgtec.com/developers/powervr-sdk-tools/pvrmonitor/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/64105317b4af491bbaf3aaa5514ce90d",
 	"SupportURL": "https://pvrsupport.imgtec.com/",
-	"EngineVersion": "4.21.0",
+	"EngineVersion": "4.22.0",
 	"CanContainContent": true,
 	"Installed": true,
 	"Modules": [

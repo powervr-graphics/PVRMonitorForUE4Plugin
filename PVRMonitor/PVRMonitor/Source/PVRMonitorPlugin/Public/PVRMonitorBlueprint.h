@@ -1,7 +1,7 @@
 /*!***********************************************************************
 
  @file           PVRMonitorBlueprint.h
- @copyright      Copyright (c) Imagination Technologies Ltd. All Rights Reserved.
+ @copyright      Copyright (c) Imagination Technologies Ltd. All Rights Reserved. 2019
 
 **************************************************************************/
 
@@ -38,7 +38,7 @@ public:
 	UPROPERTY(BlueprintReadOnly, Category = "PVRMonitor")
 		float average;
 
-	FPVRGraphCounter() : writePosCB(0), minimum(0.0f), average(0.0f), maximum(0.0f) {}
+	FPVRGraphCounter() : writePosCB(0), maximum(0.0f), minimum(0.0f), average(0.0f) {}
 };
 
 UCLASS(Blueprintable, BlueprintType)
